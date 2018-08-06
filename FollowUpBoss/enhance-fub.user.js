@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Enhance FollowUpBoss
-// @namespace    http://tampermonkey.net/
+// @namespace    http://haiku-systems.com/
 // @version      0.1
-// @description  Extract URLs from task names in FUB and materializes them as "More Info..." links.
+// @description  Adds functional enhancements to the FollowUpBoss user experience. More info here: 
 // @author       Jason Williscroft
 // @match        https://*.followupboss.com/2/*
 // @grant        none
-// @require http://code.jquery.com/jquery-3.3.1.min.js
+// @require      http://code.jquery.com/jquery-3.3.1.min.js
 // ==/UserScript==
 
 (function () {
