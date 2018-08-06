@@ -2,8 +2,8 @@
 // @name         Enhance FollowUpBoss
 // @namespace    http://haiku-systems.com/
 // @version      0.1
-// @description  Adds functional enhancements to the FollowUpBoss user experience. More info here: 
-// @author       Jason Williscroft
+// @description  Adds functional enhancements to the FollowUpBoss user experience. More info here: https://github.com/HotQuant/UserScripts
+// @author       Haiku Systems LLC
 // @match        https://*.followupboss.com/2/*
 // @grant        none
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
